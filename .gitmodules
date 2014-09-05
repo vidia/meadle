@@ -1,0 +1,3 @@
+[submodule "meadle-backend"]
+	path = meadle-backend
+	url = git@github.com:mhoc/meadle-backend.git
